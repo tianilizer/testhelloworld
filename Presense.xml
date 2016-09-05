@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<customStates xmlns="http://schemas.microsoft.com/09/2009/communicator/customStates">
+  <customState ID="1" availability="online">
+    <activity LCID="1033">Working from Home</activity>
+    <activity LCID="1044">activity 2 for 1044</activity>
+    <activity LCID="1055">activity 3 for 1055</activity>
+  </customState>
+  <customState ID="2" availability="busy">
+    <activity LCID="1033">In a Live Meeting</activity>
+    <activity LCID="1036">Equivalent French String for - In a Live Meeting </activity>
+  </customState>
+  <customState ID="3" availability="busy">
+    <activity LCID="1033">Meeting with Customer</activity>
+    <activity LCID="1055">meeting with client</activity>
+    <activity LCID="1036">Equivalent French String for - Meeting with Customer</activity>
+  </customState>
+  <customState ID="4" availability="do-not-disturb">
+    <activity LCID="1033">In Mobile</activity>
+  </customState>
+</customStates>
